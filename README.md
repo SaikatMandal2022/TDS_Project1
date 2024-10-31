@@ -1,5 +1,5 @@
 # TDS_Project1
-TDS_Project1
+
 **Data Scraping:**
 Data scraping done with the help of python packages nsmely "requests","time","pandas". Apart from "main" function, 4 more functionalities are used namely "clean_company_name", "fetch_user_details", "fetch_users_in_Berlin", "fetch_repositories". Data was extracted as list and saved in excel file format.
   
