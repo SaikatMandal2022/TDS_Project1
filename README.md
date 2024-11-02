@@ -1,7 +1,7 @@
 # TDS_Project1
 
 **Data Scraping:**
-Data scraping done with the help of python packages nsmely "requests","time","pandas". Extracted data saved in excel file format. All the files are shared in GitHub repo. Refer following code files:
+Data scraping done for GitHub users from Berlin with more than 200 followers. Python packages namely "requests","time","pandas" are used. Extracted data saved in excel file format. All the files are shared in GitHub repo. Refer following code files:
 
 Code file for Data Extraction : TDS_Project_1.ipynb (https://github.com/SaikatMandal2022/TDS_Project1/blob/main/TDS_Project_1.ipynb)
 
