@@ -4,9 +4,11 @@
 Data scraping done with the help of python packages nsmely "requests","time","pandas". Extracted data saved in excel file format. All the files are shared in GitHub repo.
 
 Refer file : TDS_Project_1.ipynb for data extraction
+
 Refer file : Q&A_TDS_Project_1.ipynb for solutions
 
-Data Extraction :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/TDS_Project_1.ipynb 
+Data Extraction :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/TDS_Project_1.ipynb
+
 Answers  :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/Q%26A_TDS_Project_1.ipynb
 
   
