@@ -1,7 +1,14 @@
 # TDS_Project1
 
 **Data Scraping:**
-Data scraping done with the help of python packages nsmely "requests","time","pandas". Apart from "main" function, 4 more functionalities are used namely "clean_company_name", "fetch_user_details", "fetch_users_in_Berlin", "fetch_repositories". Data was extracted as list and saved in excel file format. All calculatiosn done in excel(Solutions.xlsx).
+Data scraping done with the help of python packages nsmely "requests","time","pandas". Extracted data saved in excel file format. All the files are shared in GitHub repo.
+
+Refer file : TDS_Project_1.ipynb for data extraction
+Refer file : Q&A_TDS_Project_1.ipynb for solutions
+
+Data Extraction :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/TDS_Project_1.ipynb 
+Answers  :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/Q%26A_TDS_Project1.ipynb
+
   
 **Most Interesting and Surprising fact:**
 Both Github ID creation and repository creation increased steadily from 2008 upto 2015-2018 in Berlin. Surpisingly, the trend declined steadily thereafter. Usage of Typescript and Rust shows increasing trend with TypeScript overtaking JavaScript in share of usage. Average number of repositories created by users, dropped steadily from 2008 to 2023. Non-hireable members are more active than hireables.
