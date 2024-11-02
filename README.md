@@ -1,15 +1,15 @@
 # TDS_Project1
 
 **Data Scraping:**
-Data scraping done with the help of python packages nsmely "requests","time","pandas". Extracted data saved in excel file format. All the files are shared in GitHub repo.
+Data scraping done with the help of python packages nsmely "requests","time","pandas". Extracted data saved in excel file format. All the files are shared in GitHub repo. Refer following code files:
 
-Refer file : TDS_Project_1.ipynb for data extraction
+Data Extraction Code file : TDS_Project_1.ipynb for data extraction (https://github.com/SaikatMandal2022/TDS_Project1/blob/main/TDS_Project_1.ipynb)
 
-Refer file : Q&A_TDS_Project_1.ipynb for solutions
+Answers Code file : Q&A_TDS_Project_1.ipynb for solutions (https://github.com/SaikatMandal2022/TDS_Project1/blob/main/Q%26A_TDS_Project_1.ipynb)
 
-Data Extraction :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/TDS_Project_1.ipynb
+Data Extraction Code file :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/TDS_Project_1.ipynb
 
-Answers  :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/Q%26A_TDS_Project_1.ipynb
+Answers Code file :  https://github.com/SaikatMandal2022/TDS_Project1/blob/main/Q%26A_TDS_Project_1.ipynb
 
   
 **Most Interesting and Surprising fact:**
